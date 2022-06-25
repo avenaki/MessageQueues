@@ -1,4 +1,5 @@
-﻿using Serilog;
+﻿using MainProcessingService.Models;
+using Serilog;
 using Shared.Models;
 using Shared.Services.Interfaces.Interfaces;
 

@@ -1,4 +1,4 @@
-﻿namespace Shared.Models;
+﻿namespace MainProcessingService.Models;
 
 public class Document
 {
